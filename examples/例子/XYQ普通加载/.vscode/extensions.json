@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer-2", //Bracket Pair Colorizer 2
+        "CodeInChinese.ChineseInputAssistant", //中文代码快速补全
+        "aaron-bond.better-comments", //Better Comments
+        "ms-ceintl.vscode-language-pack-zh-hans", //简体中文
+        "asuka.insertnumbers", //Insert Numbers
+        "obkoro1.korofileheader", //koroFileHeader
+        "tomblind.local-lua-debugger-vscode", //Local Lua Debugger
+        "sumneko.lua", //Lua
+        "autsing.lua-format-extension", //lua-format-extension
+        "karlsander.run-button", //Run Button
+        "spencerwmiles.vscode-task-buttons", //Task Buttons
+        "wayou.vscode-todo-highlight", //TODO Highlight
+        "vscode-icons-team.vscode-icons", //vscode-icons
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+    ],
+    "settings": {
+        "fileheader.customMade": {
+            "Author": "GGELUA", //作者名称
+            "LastEditors": "baidwwy",
+            "Date": "Do not edit", // 设置后默认设置文件生成时间
+            "LastEditTime": "Do not edit", // 设置后，保存文件更改默认更新最后编辑时间
+        },
+        "fileheader.configObj": {
+            "createFileTime": true,
+            "language": {
+                "lua": {
+                    "middle": "-- @",
+                }
+            },
+            "customHasHeadEnd": {
+                "lua": "cancel head and function",
+            },
+            "supportAutoLanguage": [
+                "lua"
+            ],
+            "specialOptions": {
+                "特殊字段": "自定义比如LastEditTime/LastEditors",
+                "LastEditTime": "Last Modified time",
+                "LastEditors": "Last Modified by",
+            },
+            "wideSame": true,
+            "wideNum": 20,
+        },
+        "terminal.integrated.defaultProfile.windows": "Command Prompt"
+    },
+}

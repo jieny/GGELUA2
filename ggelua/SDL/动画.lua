@@ -15,7 +15,7 @@ function SDL动画:SDL动画(obj)
     local tp = ggetype(obj)
     local info
     if tp == 'string' then
-        info = assert(IMG.LoadAnimation(obj), SDL.GetError()))
+        info = assert(IMG.LoadAnimation(obj), SDL.GetError())
     elseif tp == 'SDL读写' and obj:取对象() then
         info = assert(IMG.LoadAnimation_RW(obj:取对象()), SDL.GetError())
     elseif tp == 'SDL_RWops' then

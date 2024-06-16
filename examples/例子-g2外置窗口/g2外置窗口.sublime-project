@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"g2外置窗口.sublime-project"
+			],
+			"folder_exclude_patterns":
+			[
+				"build"
+			],
+			"path": "."
+		},
+		{
+			"path": "../../GGELUA"
+		}
+	]
+}
